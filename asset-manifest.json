@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/college_in_north/static/css/main.cff49af4.chunk.css",
+    "main.js": "/college_in_north/static/js/main.e8d604fd.chunk.js",
+    "main.js.map": "/college_in_north/static/js/main.e8d604fd.chunk.js.map",
+    "runtime-main.js": "/college_in_north/static/js/runtime-main.e49939c1.js",
+    "runtime-main.js.map": "/college_in_north/static/js/runtime-main.e49939c1.js.map",
+    "static/js/2.b4afdbc3.chunk.js": "/college_in_north/static/js/2.b4afdbc3.chunk.js",
+    "static/js/2.b4afdbc3.chunk.js.map": "/college_in_north/static/js/2.b4afdbc3.chunk.js.map",
+    "index.html": "/college_in_north/index.html",
+    "precache-manifest.477bf0b43f2050e7c716021895aae228.js": "/college_in_north/precache-manifest.477bf0b43f2050e7c716021895aae228.js",
+    "service-worker.js": "/college_in_north/service-worker.js",
+    "static/css/main.cff49af4.chunk.css.map": "/college_in_north/static/css/main.cff49af4.chunk.css.map",
+    "static/js/2.b4afdbc3.chunk.js.LICENSE.txt": "/college_in_north/static/js/2.b4afdbc3.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/college_in_north/static/media/college_02.619ee97e.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e49939c1.js",
+    "static/js/2.b4afdbc3.chunk.js",
+    "static/css/main.cff49af4.chunk.css",
+    "static/js/main.e8d604fd.chunk.js"
+  ]
+}
